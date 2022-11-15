@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Darnion\\Desktop\\XUnitTest\\MethodsLibrary\\MethodsLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Darnion\\Desktop\\XUnitTest\\DataGridView_Adm_Com_UnitTests\\DataGridView_Adm_Com.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darnion\\Desktop\\XUnitTest\\DataGridView_Adm_Com_UnitTests\\DataGridView_Adm_Com.csproj",
+        "projectName": "DataGridView_Adm_Com",
+        "projectPath": "C:\\Users\\Darnion\\Desktop\\XUnitTest\\DataGridView_Adm_Com_UnitTests\\DataGridView_Adm_Com.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Darnion\\Desktop\\XUnitTest\\MethodsLibrary\\MethodsLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darnion\\Desktop\\XUnitTest\\MethodsLibrary\\MethodsLibrary.csproj",
+        "projectName": "MethodsLibrary",
+        "projectPath": "C:\\Users\\Darnion\\Desktop\\XUnitTest\\MethodsLibrary\\MethodsLibrary.csproj",
+        "packagesPath": "C:\\Users\\Darnion\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darnion\\Desktop\\XUnitTest\\MethodsLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darnion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Darnion\\Desktop\\XUnitTest\\DataGridView_Adm_Com_UnitTests\\DataGridView_Adm_Com.csproj": {
+                "projectPath": "C:\\Users\\Darnion\\Desktop\\XUnitTest\\DataGridView_Adm_Com_UnitTests\\DataGridView_Adm_Com.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
